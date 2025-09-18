@@ -18,7 +18,7 @@ public class Palindrome {
             if (isPalindrome(s)) {
                 System.out.println(s + " true");
             } else {
-                System.out.println(s + " - false");
+                System.out.println(s + " false");
             }
         }
     }
